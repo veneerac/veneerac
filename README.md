@@ -27,7 +27,6 @@ I help customers design, troubleshoot and run integration and API platforms buil
 | [PWCBHandler_project](https://github.com/veneerac/PWCBHandler_project) | Custom PasswordCallbackHandler for securing MI web services with Rampart WS-Security policies |
 | [ConnectionUnDeploymentSample](https://github.com/veneerac/ConnectionUnDeploymentSample) | Cleans up connector connections gracefully when a CAR application is undeployed |
 | [MutipartRealtedContentType_Customization](https://github.com/veneerac/MutipartRealtedContentType_Customization) | Custom builders and formatters for multipart/related messages in WSO2 MI/EI |
-| [MI_Training](https://github.com/veneerac/MI_Training) | Shared resources for WSO2 Integrator: MI 4.6.0 developer training |
 
 ## 🤝 Connect
 
