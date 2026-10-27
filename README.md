@@ -1,6 +1,6 @@
 # Hi, I'm Chandima Veneera 👋
 
-**Customer Reliability Engineer at [WSO2](https://wso2.com)** · Matara, Sri Lanka
+**Customer Reliability Engineer at [WSO2](https://wso2.com)** ·
 
 I help customers design, troubleshoot and run integration and API platforms built on WSO2, from root-cause analysis of production incidents to migrations and product customizations.
 
